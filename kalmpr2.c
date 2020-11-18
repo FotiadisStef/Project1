@@ -12,7 +12,6 @@ int main()
         {
             for (int times = 0; times < k; times++)
             {
-                // find prime
             }
         }
     }
